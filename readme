@@ -1,0 +1,1 @@
+rodar no node master o comando "python exec1.py" e no node slave rodar o comando "python mincemeat.py -p changeme localhost"
